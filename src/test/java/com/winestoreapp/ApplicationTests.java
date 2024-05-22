@@ -1,13 +1,12 @@
-package com.winesroreapp;
+package com.winestoreapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StiocWineryApplicationTests {
+class ApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
-
+    @Test
+    void contextLoads() {
+    }
 }
